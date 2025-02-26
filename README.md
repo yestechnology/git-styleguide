@@ -1,6 +1,5 @@
-git-styleguide
-==============================
+# MOVED TO BITBUCKET!
 
-View the style guide at http://yestechnology.github.io/git-styleguide/
+### Here's the new link:
 
-Fork: http://udacity.github.io/git-styleguide/
+https://bitbucket.org/foxsuporte/foxsuporte.bitbucket.io/src/main/git-styleguide/
